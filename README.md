@@ -71,8 +71,6 @@ Security controls were applied across the environment.
 * The EC2 instance uses an IAM role rather than long-term AWS credentials.
 * The IAM policy follows least-privilege principles by restricting access to the specific S3 object required by the workload.
 
-A negative IAM test was also performed to confirm that the EC2 instance could access the permitted object but could not perform an operation outside the policy, such as listing the bucket.
-
 ## Testing
 
 The environment was validated throughout the deployment.

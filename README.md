@@ -99,25 +99,6 @@ Detailed configuration, screenshots and testing notes are available in:
 * [IAM and Least Privilege](documentation/iam.md)
 * [CloudWatch Monitoring](documentation/monitoring.md)
 
-## Skills Demonstrated
-
-* AWS cloud infrastructure
-* VPC and subnet design
-* CIDR addressing
-* Route tables and Internet Gateways
-* Security Groups
-* Amazon EC2
-* Linux administration
-* Nginx
-* Amazon S3
-* IAM and least privilege
-* Workload identity
-* CloudWatch
-* Infrastructure troubleshooting
-* Security testing
-* Cost awareness
-* Technical documentation
-
 ## Future Improvements
 
 Potential extensions to the environment include:
